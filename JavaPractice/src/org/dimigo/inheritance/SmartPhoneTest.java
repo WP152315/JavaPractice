@@ -19,7 +19,7 @@ public class SmartPhoneTest {
 
 	/**
 	 * @param args
-	 */
+	 */    
 	public static void main(String[] args) {
 		SmartPhone[] s = {
 				new IPhone("iPhone 7", "애플", 900000),

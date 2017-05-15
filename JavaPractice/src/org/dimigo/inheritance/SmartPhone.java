@@ -23,7 +23,7 @@ public class SmartPhone {
 	public SmartPhone(){
 		
 	}
-	
+	               
 	public SmartPhone(String model, String company, int price){
 		this.model = model;
 		this.company = company;
