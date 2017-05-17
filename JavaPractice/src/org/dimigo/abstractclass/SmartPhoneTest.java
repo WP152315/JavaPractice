@@ -13,7 +13,7 @@ package org.dimigo.abstractclass;
  * </pre>
  *
  * @author		: jongs
- * @version 	: 1.0   
+ * @version 	: 1.0    
  */
 public class SmartPhoneTest {
 
