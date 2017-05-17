@@ -10,7 +10,7 @@ package org.dimigo.abstractclass;
  *
  * 1. 개요 :
  * 2. 작성일 : 2017. 5. 17.
- * </pre>  
+ * </pre>   
  *
  * @author		: jongs
  * @version 	: 1.0 
