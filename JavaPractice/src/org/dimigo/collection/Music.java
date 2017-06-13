@@ -15,7 +15,7 @@ package org.dimigo.collection;
  * @author		: jongs
  * @version 	: 1.0 
  */
-public class Music {
+public class Music { 
 	private String title;
 	private String singer;
 	
